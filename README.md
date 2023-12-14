@@ -24,7 +24,7 @@ Rancid Tomatillos
 "Rancid Tomatillos" is a web application designed to provide users with a comprehensive movie exploration experience, similar to popular platforms like Rotten Tomatoes. The application allows users to browse through a curated collection of movies, view detailed information about each movie, watch trailers or clips, and access reviews to make informed decisions about their movie choices.
 
 ## 📝  Context
-We are a pair of 2 front-end developers who worked together remotely via Zoom and asynchronously through the GitHub project board to complete this application. This project was completed from week 1 to week 3 in Mod 3 of the Front End development program at Turing School of Software & Design. 
+Paired with front-end developers where we worked remotely via Zoom and asynchronously through the GitHub project board to complete this application. 
 
 ## Link: 
 [Live Github Link](https://rancid-tomatillos-seven-tan.vercel.app/)
