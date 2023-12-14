@@ -26,6 +26,9 @@ Rancid Tomatillos
 ## 📝  Context
 We are a pair of 2 front-end developers who worked together remotely via Zoom and asynchronously through the GitHub project board to complete this application. This project was completed from week 1 to week 3 in Mod 3 of the Front End development program at Turing School of Software & Design. 
 
+## Link: 
+[Live Github Link](https://rancid-tomatillos-seven-tan.vercel.app/)
+
 ## 🎥 Preview 
 https://github.com/em2396/rancid-tomatillos/assets/140124108/3e875be8-3e6d-458e-bb04-cc21392457f9
 
